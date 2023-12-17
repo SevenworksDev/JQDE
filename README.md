@@ -1,6 +1,6 @@
 # JQDE (jQuery Desktop Environment)
-
 This JavaScript library allows you to create a "Desktop Environment" in your browser using one simple line of code.
+![jqde](https://github.com/SevenworksDev/JQDE/assets/91027492/db4669a1-7ba8-4633-8b04-1cd94135e6af)
 
 ## Functions
 

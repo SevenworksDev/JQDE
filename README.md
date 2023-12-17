@@ -1,6 +1,6 @@
-# Mock OS JavaScript Library
+# JQDE (jQuery Desktop Environment)
 
-This JavaScript library 
+This JavaScript library allows you to create a "Desktop Environment" in your browser using one simple line of code.
 
 ## Functions
 

@@ -1,4 +1,5 @@
 # JQDE (jQuery Desktop Environment)
+## [Try it out!](https://sevenworksdev.github.io/JQDE/example.html)
 This JavaScript library allows you to create a "Desktop Environment" in your browser using one simple line of code.
 ![jqde](https://github.com/SevenworksDev/JQDE/assets/91027492/db4669a1-7ba8-4633-8b04-1cd94135e6af)
 
@@ -43,15 +44,3 @@ Performs an exit action based on the specified type:
 
 **Parameters:**
 - `type`: The exit type (0, 1, or 2).
-
-## Example Usage
-
-```javascript
-// Create the Desktop
-jqde.create("JQDE Desktop");
-
-// Add applications
-jqde.addApplication("icon1.png", "App 1", "Content for App 1");
-jqde.addApplication("icon2.png", "App 2", "Content for App 2");
-jqde.addApplication("icon3.png", "App 3", "Content for App 3");
-```
